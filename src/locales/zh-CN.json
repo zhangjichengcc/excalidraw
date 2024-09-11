@@ -42,6 +42,7 @@
     "fontFamily": "字体",
     "addWatermark": "添加 “使用 Excalidraw 创建” 水印",
     "handDrawn": "手写",
+    "handDrawnCN": "手写中文",
     "normal": "普通",
     "code": "代码",
     "small": "小",

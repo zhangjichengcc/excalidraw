@@ -344,6 +344,15 @@ export const FreedrawIcon = createIcon(
   modifiedTablerIconProps,
 );
 
+// modified tabler-icons: brush
+export const PaintIcon = createIcon(
+  <g strokeWidth="1.25">
+    <path d="M5.12634 17C5.04271 17.6571 5 18.325 5 19V21M5.12634 17C6.03384 9.86861 11.7594 4 20 4L19 8H16L17 10L15 12H11L13 14L12 16H8L5.12634 17Z" />
+  </g>,
+
+  modifiedTablerIconProps,
+);
+
 // tabler-icons: typography
 export const TextIcon = createIcon(
   <g strokeWidth="1.5">

@@ -156,6 +156,7 @@ export const t = (
       translation = translation.replace(`{{${key}}}`, String(replacement[key]));
     }
   }
+  debugger;
   return translation;
 };
 
